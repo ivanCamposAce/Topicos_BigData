@@ -12,8 +12,16 @@
 10. Databricks 
 11. JenKins (CI/CD)
 12. Apache Airflow (orquestacion)
+13. SSH (conexion Remota)
+
+
+
 ## metodoogias
 - Arquitectura Medallon (ELT Avanzado) --> LokeHouse
 - Dama-Book (Gobierno de datos)
 
 
+© 2026 Rengoku 
+
+
+Este trabajo esta bajo licencia [Creative Comns Attribution 4.0 International](LICENSE)
