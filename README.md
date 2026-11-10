@@ -1,5 +1,5 @@
 # Repositorio del curso de topicos especiales en inteligencia Negocios 
-## Tecnologis a usar
+## Tecnologias a usar
 1. git
 2. Python
 3. vs code
@@ -16,7 +16,7 @@
 
 
 
-## metodoogias
+## metodologias
 - Arquitectura Medallon (ELT Avanzado) --> LokeHouse
 - Dama-Book (Gobierno de datos)
 
